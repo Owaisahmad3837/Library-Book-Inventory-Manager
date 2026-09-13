@@ -1,0 +1,252 @@
+{
+  "1": {
+    "name": "Clean Code",
+    "author": "Robert C. Martin",
+    "issued": false
+  },
+  "2": {
+    "name": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "issued": false
+  },
+  "3": {
+    "name": "Python Crash Course",
+    "author": "Eric Matthes",
+    "issued": false
+  },
+  "4": {
+    "name": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "issued": false
+  },
+  "5": {
+    "name": "Effective Python",
+    "author": "Brett Slatkin",
+    "issued": false
+  },
+  "6": {
+    "name": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "issued": false
+  },
+  "7": {
+    "name": "Learning Python",
+    "author": "Mark Lutz",
+    "issued": false
+  },
+  "8": {
+    "name": "Head First Python",
+    "author": "Paul Barry",
+    "issued": false
+  },
+  "9": {
+    "name": "Think Python",
+    "author": "Allen B. Downey",
+    "issued": false
+  },
+  "10": {
+    "name": "Data Structures and Algorithms in Python",
+    "author": "Michael T. Goodrich",
+    "issued": false
+  },
+  "11": {
+    "name": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "issued": false
+  },
+  "12": {
+    "name": "Algorithms",
+    "author": "Robert Sedgewick",
+    "issued": false
+  },
+  "13": {
+    "name": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "issued": false
+  },
+  "14": {
+    "name": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "issued": false
+  },
+  "15": {
+    "name": "Programming Pearls",
+    "author": "Jon Bentley",
+    "issued": false
+  },
+  "16": {
+    "name": "Design Patterns",
+    "author": "Erich Gamma",
+    "issued": false
+  },
+  "17": {
+    "name": "Refactoring",
+    "author": "Martin Fowler",
+    "issued": false
+  },
+  "18": {
+    "name": "Code Complete",
+    "author": "Steve McConnell",
+    "issued": false
+  },
+  "19": {
+    "name": "The Clean Coder",
+    "author": "Robert C. Martin",
+    "issued": false
+  },
+  "20": {
+    "name": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson",
+    "issued": false
+  },
+  "21": {
+    "name": "Computer Networking",
+    "author": "James Kurose",
+    "issued": false
+  },
+  "22": {
+    "name": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "issued": false
+  },
+  "23": {
+    "name": "Modern Operating Systems",
+    "author": "Andrew S. Tanenbaum",
+    "issued": false
+  },
+  "24": {
+    "name": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "issued": false
+  },
+  "25": {
+    "name": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "issued": false
+  },
+  "26": {
+    "name": "The Data Warehouse Toolkit",
+    "author": "Ralph Kimball",
+    "issued": false
+  },
+  "27": {
+    "name": "Fundamentals of Database Systems",
+    "author": "Ramez Elmasri",
+    "issued": false
+  },
+  "28": {
+    "name": "SQL Cookbook",
+    "author": "Anthony Molinaro",
+    "issued": false
+  },
+  "29": {
+    "name": "Learning SQL",
+    "author": "Alan Beaulieu",
+    "issued": false
+  },
+  "30": {
+    "name": "Database Internals",
+    "author": "Alex Petrov",
+    "issued": false
+  },
+  "31": {
+    "name": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "issued": false
+  },
+  "32": {
+    "name": "Hands-On Machine Learning",
+    "author": "Aurélien Géron",
+    "issued": false
+  },
+  "33": {
+    "name": "Pattern Recognition and Machine Learning",
+    "author": "Christopher Bishop",
+    "issued": false
+  },
+  "34": {
+    "name": "Artificial Intelligence",
+    "author": "Stuart Russell",
+    "issued": false
+  },
+  "35": {
+    "name": "Machine Learning Yearning",
+    "author": "Andrew Ng",
+    "issued": false
+  },
+  "36": {
+    "name": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "issued": false
+  },
+  "37": {
+    "name": "The Art of Computer Programming",
+    "author": "Donald Knuth",
+    "issued": false
+  },
+  "38": {
+    "name": "Computer Architecture",
+    "author": "John L. Hennessy",
+    "issued": false
+  },
+  "39": {
+    "name": "Digital Design",
+    "author": "Morris Mano",
+    "issued": false
+  },
+  "40": {
+    "name": "Compilers",
+    "author": "Alfred V. Aho",
+    "issued": false
+  },
+  "41": {
+    "name": "Computer Graphics",
+    "author": "Donald Hearn",
+    "issued": false
+  },
+  "42": {
+    "name": "Distributed Systems",
+    "author": "Maarten van Steen",
+    "issued": false
+  },
+  "43": {
+    "name": "Software Engineering",
+    "author": "Ian Sommerville",
+    "issued": false
+  },
+  "44": {
+    "name": "Don't Make Me Think",
+    "author": "Steve Krug",
+    "issued": false
+  },
+  "45": {
+    "name": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "issued": false
+  },
+  "46": {
+    "name": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "issued": false
+  },
+  "47": {
+    "name": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "issued": false
+  },
+  "48": {
+    "name": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "issued": false
+  },
+  "49": {
+    "name": "The Phoenix Project",
+    "author": "Gene Kim",
+    "issued": false
+  },
+  "50": {
+    "name": "Accelerate",
+    "author": "Nicole Forsgren",
+    "issued": false
+  }
+}
